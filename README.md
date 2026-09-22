@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,38BDF8,818CF8,C084FC&height=180&section=header&text=Behi7&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%7C%20amoCRM%20%26%20Kommo%20Automations&descFontSize=20&descAlignY=62" width="100%" alt="Header" />
+</p>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Привет!+Я+Behi7+👋;AI+Engineer+%26+Backend+Developer;amoCRM+%2F+Kommo+Integrations;Building+Autonomous+AI+Sales+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Behi7;AI+Engineer+and+Backend+Developer;amoCRM+and+Kommo+Integrations;Building+Autonomous+AI+Sales+Agents" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,6 +17,9 @@
   </a>
   <a href="https://github.com/Behi7/Ai_manager_crm">
     <img src="https://img.shields.io/badge/Featured-Ai__manager__crm-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Ai_manager_crm" />
+  </a>
+  <a href="https://github.com/Behi7/Amocrmtimeanalitik">
+    <img src="https://img.shields.io/badge/Analytics-Amocrmtimeanalitik-009688?style=for-the-badge&logo=react&logoColor=white" alt="Amocrmtimeanalitik" />
   </a>
 </p>
 
@@ -99,9 +106,9 @@
 ### 📊 Статистика активности
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Behi7&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=F43F5E&text_color=94A3B8&bg_color=0F172A" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Behi7&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=F43F5E&text_color=94A3B8&bg_color=0F172A" height="150" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Behi7&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0F172A" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Behi7&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0F172A" height="150" alt="Top Languages" />
 </div>
 
 <p align="center" style="margin-top: 10px;">
