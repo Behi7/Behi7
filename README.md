@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,38BDF8,818CF8,C084FC&height=180&section=header&text=Behi7&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%7C%20amoCRM%20%26%20Kommo%20Automations&descFontSize=20&descAlignY=62" width="100%" alt="Header" />
+  <img src="./header.svg" width="100%" alt="Behi7 Banner" />
 </p>
 
 <div align="center">
